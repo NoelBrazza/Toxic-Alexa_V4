@@ -28,27 +28,27 @@
     },
     "MENUVID": {
       "description": "Give your Video Url For Menu",
-      "required": true,
+      "required": false,
       "value": "['https://i.imgur.com/wlqAQfX.mp4', 'https://i.imgur.com/hWZYX4J.mp4', 'https://i.imgur.com/foHz91N.mp4', 'https://i.imgur.com/dc64HD3.mp4', 'https://i.imgur.com/N8kx2ju.mp4', 'https://i.imgur.com/kz9gIHr.mp4']"
     },
     "IGFG": {
       "description": "Give your Instagram",
-      "required": true,
+      "required": false,
       "value": "https://instagram.com/toxic_turbo777"
     },
     "FGYT": {
       "description": "Give your Youtube Channel Link",
-      "required": true,
+      "required": false,
       "value": "https://youtube.com/@TurboMods"
     },
     "FGPYP": {
       "description": "Give your Website Link",
-      "required": true,
+      "required": false,
       "value": "https://youtu.be/vO4h2gsx0kQ?si=-BpfcOztSYhpJGXx"
     },
     "FGLOG": {
       "description": "Give your logo url",
-      "required": true,
+      "required": false,
       "value": "https://telegra.ph/file/754dfa68ef75ae44fbfc5.jpg"
     },
     "THUMB": {
@@ -101,7 +101,7 @@
       "required": false,
       "value": ""
     },
-    "autoRead": {
+    "autoread": {
       "description": "make it true if you want bot to read messages",
       "required": false,
       "value": ""
